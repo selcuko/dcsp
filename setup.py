@@ -7,7 +7,7 @@ setup(
   description = 'Drone Controlling and Streaming Protocol',   # Give a short description about your library
   author = 'Ömer Feyyaz Selçuk',                   # Type in your name
   author_email = 'omrfyyz@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://github.com/divisia/dcsp',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['drone', 'streaming', 'telemetry'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
@@ -22,5 +22,5 @@ setup(
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
     'Programming Language :: Python :: 3.7',
-  ],
+  ]
 )
